@@ -37,6 +37,14 @@ Ordered
 1. Item 1
 2. Item 2
 3. Item 3
-	*Item 3a
-	*Item 3b
+	* Item 3a
+	* Item 3b
+
+## IMAGES
+
+![Karen Lab
+Logo](https://i.guim.co.uk/img/media/43352be36da0eb156e8551d775a57fadba8ae6d7/0_0_1440_864/master/1440.jpg?width=1900&dpr=2&s=none)
+
+Format: \![Alt text](url)
+
 
