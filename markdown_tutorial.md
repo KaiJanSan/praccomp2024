@@ -45,6 +45,17 @@ Ordered
 ![Karen Lab
 Logo](https://i.guim.co.uk/img/media/43352be36da0eb156e8551d775a57fadba8ae6d7/0_0_1440_864/master/1440.jpg?width=1900&dpr=2&s=none)
 
-Format: \![Alt text](url)
+Format: \!\[Alt text]\(url\)
+
+## LINKS
+
+http://karenlab.net
+
+[Karen Lab](http://karenlab.net)
+
+## BACKLASH ESCAPES
+
+\*Literal asterisks\*
+
 
 
